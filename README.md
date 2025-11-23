@@ -1,16 +1,15 @@
-## Hi there 👋
+### O HAI! ヽ(´▽`)/
+  
+I'm a front-end engineer! Been at this so long that trying to shorten the story is kinda impossible.
+  
+I'm basically an enthusiast of anything interesting, did a lot of work throughout the years with `Vue`, `React` and `Angular` on the Front-End side, but I also very rarely do some work with some `Node.JS` (JS and TS, but prefer TS!) and `.NET`. Recently somehow even got into Go! I also play a lot with Arduino (mainly C/C++ and a veriety of ESP32 boards and sensors) for my maker things, like building boards full of different sensors and dashboards to keep an eye on my wall outlets and air quality, because the nobody wants CO2 accumulation dragging your brain speed down!
+  
+I'm also kinda experienced with cloud techs (AWS, OCI, Azure), containerization (Docker) and CI/CD (GH Actions and Jenkins).  
 
-<!--
-**pdromnt/pdromnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And hey, if you're one of those seniors that is looking where's my GH activity - does your company publish everything in public repos? All the fun happens in private, if you're interested then invite me to a challenge, bet I'd impress you into hiring me! ;)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently deep diving into React and TypeScript to learn how to get *more* performance on frontend apps!
+- 👯 I’m looking to collaborate on something related to embedded hardware! (ESP32 people where you at?!)
+- 💬 Ask me anything tech! Passing knowledge forward is something I *love*, that's part of the reason why I teach programming in my free time!
+- 😄 Pronouns: he/him
+- 🤖 AI who? Yeah, I do use AI to help with code but believe me, I didn't buy into the hype. AI is a **tool**. I use it for boring boilerplate. Ethical AI use is a thing!
