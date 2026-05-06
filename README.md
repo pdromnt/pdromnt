@@ -10,5 +10,4 @@ GitHub looks quiet because enterprise repos don't ship in public. If you want to
 
 - 🌱 Deep-diving React + TypeScript for raw frontend perf
 - 👯 Looking for ESP32 / embedded hardware collaborators
-- 💬 Ask me anything tech — I teach programming on the side and genuinely enjoy passing knowledge forward
 - 🤖 AI is a tool, not a personality trait. I use it. I don't worship it.
