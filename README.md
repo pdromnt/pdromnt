@@ -1,14 +1,14 @@
 ### O HAI! ヽ(´▽`)/
-  
-I'm a front-end engineer! Been at this for so long that trying to shorten the story is kinda impossible.
-  
-I'm basically an enthusiast of anything interesting, did a lot of work throughout the years with `Vue`, `React` and `Angular` on the frontend side, but I also very rarely do some work with some `Node.JS` (JS and TS, but prefer TS!). Recently somehow even got into Go! I also play a lot with Arduino (mainly C/C++ and a veriety of ESP32 boards and sensors) for my maker things, like building boards full of different sensors and dashboards to keep an eye on my wall outlets and air quality, because the nobody wants CO2 accumulation dragging your brain speed down!
-  
-I'm also kinda experienced with cloud stacks (AWS, OCI, Azure), containerization (Docker) and CI/CD (GH Actions and Jenkins), but even though I like to dockerize my stuff, I'm *far* from being a DevOps guy.  
 
-And hey, if you're one of those seniors that's asking where's my GH activity - does your company publish everything in public repos? All the fun happens in private, if you're interested then invite me to a challenge, bet I'd impress you into hiring me! ;)
+Front-end engineer. If it renders in a browser, I've probably built something with it — `Vue`, `React`, `Angular`, and `TypeScript` are where I live. Backend when needed (`Node.js`, increasingly `Go`), but I'm not the DevOps guy and I won't pretend to be.
 
-- 🌱 I’m currently deep diving *even more* into React and TypeScript to learn how to get *more* performance on frontend apps
-- 👯 I’m looking to collaborate on something related to embedded hardware! (Where's all the ESP32 people at?)
-- 💬 Ask me anything tech! Passing knowledge forward is something I *love*, that's part of the reason why I teach programming in my free time!
-- 🤖 AI who? Yeah, I do use AI to help with code but believe me, I didn't buy into the hype. AI is a **tool**.
+I build hardware too. Arduino, ESP32, sensors everywhere — air quality monitors, power dashboards, the kind of nerdery that tells you your CO₂ is climbing before your brain notices. Firmware in C/C++, dashboards in whatever makes sense that week.
+
+Cloud stuff's in the toolbox (AWS, OCI, Azure), Docker for everything I can containerize, CI/CD with GH Actions or Jenkins — comfortable, not obsessed.
+
+GitHub looks quiet because enterprise repos don't ship in public. If you want to see what I can do, bring a challenge. I'll show you! (⌐■_■)
+
+- 🌱 Deep-diving React + TypeScript for raw frontend perf
+- 👯 Looking for ESP32 / embedded hardware collaborators
+- 💬 Ask me anything tech — I teach programming on the side and genuinely enjoy passing knowledge forward
+- 🤖 AI is a tool, not a personality trait. I use it. I don't worship it.
