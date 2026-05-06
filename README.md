@@ -4,7 +4,7 @@ Front-end engineer. If it renders in a browser, I've probably built something wi
 
 I build hardware too. Arduino, ESP32, sensors everywhere — air quality monitors, power dashboards, the kind of nerdery that tells you your CO₂ is climbing before your brain notices. Firmware in C/C++, dashboards in whatever makes sense that week.
 
-Cloud stuff's in the toolbox (AWS, OCI, Azure), Docker for everything I can containerize, CI/CD with GH Actions or Jenkins — comfortable, not obsessed.
+Cloud stuff's in the toolbox (AWS, OCI, Azure), Docker for everything I can containerize, CI/CD with GH Actions or Jenkins. Comfortable, not obsessed.
 
 GitHub looks quiet because enterprise repos don't ship in public. If you want to see what I can do, bring a challenge. I'll show you! (⌐■_■)
 
