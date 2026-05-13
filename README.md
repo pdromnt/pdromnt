@@ -1,10 +1,8 @@
-### O HAI! ヽ(´▽`)/
+Frontend engineer. Vue, React, Angular, TypeScript — 10+ years shipping products from fintech infrastructure to AI tooling. I've led teams, rebuilt platforms, and cut build pipelines from hours to minutes. Backend when the situation calls for it (Node, AdonisJS, NestJS), AWS when there's no DevOps person handy. Docker because I like reproducible builds more than I like debugging environment issues.
 
-Front-end engineer. If it renders in a browser, I've probably built something with it. `Vue`, `React`, `Angular`, and `TypeScript` are where I live. Backend when needed (`Node.js`, increasingly `Go`). Cloud stuff's in the toolbox (AWS, OCI, Azure), Docker for everything I can containerize, CI/CD with GH Actions or Jenkins, but I'm not the DevOps guy and I won't pretend to be.
+Also into embedded hardware. Arduino, ESP32, air quality sensors, dashboards that tell you your CO₂ is climbing before your brain notices. Firmware in C/C++.
 
-I build some hardware too. Arduino, ESP32, sensors everywhere for air quality monitors, power dashboards and all the kind of nerdery that tells you your CO₂ is climbing before your brain notices. Firmware in C/C++, dashboards in whatever makes sense that week.
+AI is a tool, not a personality trait. I use it. I don't worship it.
 
-GitHub looks quiet because enterprise repos don't ship in public. If you want to see what I can do, bring a challenge. :-)
-- 🌱 Deep-diving React + TypeScript for raw frontend perf
-- 👯 Looking for ESP32 / embedded hardware collabs
-- 🤖 AI is a tool, not a personality trait. I use it. I don't worship it.
+- 🌱 Currently deep in React + TypeScript, chasing frontend performance
+- 👯 Open to ESP32 / embedded hardware collabs
