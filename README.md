@@ -52,6 +52,9 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 **[rumor-party-line](https://github.com/pdromnt/rumor-party-line)** — Modern reimagining of Windows 95's Party Line LAN rumor game, built over a weekend. Real-time multiplayer with Server-Sent Events.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+**[magi-supercomputer-theme](https://github.com/pdromnt/magi-supercomputer-theme)** — Dark, CRT-inspired CSS theme based on the NERV MAGI supercomputer aesthetic from Evangelion. Green-on-black, monospace, scanlines. Framework-agnostic with adapters for Tailwind v4, DaisyUI, shadcn/ui, and raw CSS.
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
 ---
 
 ## 🔧 3D Printing & Hardware Tooling
@@ -64,6 +67,9 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 
 **[moonwalker](https://github.com/pdromnt/moonwalker)** — Browser extension for monitoring Klipper 3D printers via the Moonraker API. Quick status checks without opening a separate dashboard.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**[k2-dash](https://github.com/pdromnt/k2-dash)** — Real-time dashboard for the Creality K2 Plus 3D printer. Live temperatures, print progress, CFS filament display, WebRTC webcam, jog controls, G-code console, and file management. Deployable directly to the printer.
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
 
 ---
 
