@@ -40,6 +40,9 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 **[magi-supercomputer-theme](https://github.com/pdromnt/magi-supercomputer-theme)** — Dark, CRT-inspired CSS theme based on the NERV MAGI supercomputer aesthetic from Evangelion. Green-on-black, monospace, scanlines. Framework-agnostic with adapters for Tailwind v4, DaisyUI, shadcn/ui, and raw CSS.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+**[zenpage](https://github.com/pdromnt/CyberPage)** — Based on zenpage: a performatic and cyberpunk-y looking browser extension with an RSS reader, tide, weather and moon predictions from various APIs, plus bookmarks, TODO and notes widget.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
 **[zenpage](https://github.com/pdromnt/zenpage)** — Forked and overhauled Chrome extension: beautiful new tab page with Unsplash photography, bookmark manager, and weather widget. Manifest V3, massively improved performance.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
