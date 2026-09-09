@@ -27,9 +27,6 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 **[tou_decomp](https://github.com/pdromnt/tou_decomp)** — Full decompilation of *Tunnels of Underworld* from raw binaries. Renderer, physics, AI, audio — ~95% complete. Built with Ghidra and way too much patience.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**[uprising-level-editor](https://github.com/pdromnt/uprising-level-editor)** *(Hotzone)* — Level editor and viewer for *Uprising Join or Die*. Reverse-engineered binary level format, renders terrain, textures, and spawn data in 3D.
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-
 **[uprising_fix_mod](https://github.com/pdromnt/uprising_fix_mod)** — DLL hook that patches rendering, CD audio, and mouse input issues in the original *Uprising Join or Die*.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
@@ -38,10 +35,10 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 
 ---
 
-## 🌐 Web & Browser Extensions
+## 🌐 Web Projects & Browser Extensions
 
-**[v-dumblog](https://github.com/pdromnt/v-dumblog)** — A deliberately simple blogging platform with an in-browser editor and themeable UI. Built as a lighter alternative to Jekyll.
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**[magi-supercomputer-theme](https://github.com/pdromnt/magi-supercomputer-theme)** — Dark, CRT-inspired CSS theme based on the NERV MAGI supercomputer aesthetic from Evangelion. Green-on-black, monospace, scanlines. Framework-agnostic with adapters for Tailwind v4, DaisyUI, shadcn/ui, and raw CSS.
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **[zenpage](https://github.com/pdromnt/zenpage)** — Forked and overhauled Chrome extension: beautiful new tab page with Unsplash photography, bookmark manager, and weather widget. Manifest V3, massively improved performance.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -52,8 +49,8 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 **[rumor-party-line](https://github.com/pdromnt/rumor-party-line)** — Modern reimagining of Windows 95's Party Line LAN rumor game, built over a weekend. Real-time multiplayer with Server-Sent Events.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**[magi-supercomputer-theme](https://github.com/pdromnt/magi-supercomputer-theme)** — Dark, CRT-inspired CSS theme based on the NERV MAGI supercomputer aesthetic from Evangelion. Green-on-black, monospace, scanlines. Framework-agnostic with adapters for Tailwind v4, DaisyUI, shadcn/ui, and raw CSS.
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+**[v-dumblog](https://github.com/pdromnt/v-dumblog)** — A deliberately simple blogging platform with an in-browser editor and themeable UI. Built as a lighter alternative to Jekyll.
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
