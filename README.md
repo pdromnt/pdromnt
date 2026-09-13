@@ -16,9 +16,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Frontend engineer with 10+ years building web applications — from fintech infrastructure to AI tooling. Vue, React, Angular, TypeScript, and whatever else gets the job done. I've led teams through platform re-architectures, bridged frontend and backend when needed (Node, AdonisJS, NestJS), and picked up AWS when there wasn't a DevOps person in the room. Docker because reproducible builds save everyone's sanity.
+Frontend engineer with 10+ years building web applications, from fintech infrastructure to AI tooling. Vue, React, Angular, TypeScript, and whatever else gets the job done. I've led teams through platform re-architectures, bridged frontend and backend when needed (Node, AdonisJS, NestJS), and picked up AWS when there wasn't a DevOps person in the room. Docker because reproducible builds save everyone's sanity.
 
-I also tinker with reverse engineering, embedded hardware, and game preservation on the side. Arduino, ESP32, 3D printer tooling — if it has a chip in it, I'm probably curious about how it works.
+I also tinker with reverse engineering, embedded hardware, and game preservation on the side. Arduino, ESP32, 3D printer tooling, if it has a chip in it, I'm probably curious about how it works.
 
 ---
 
