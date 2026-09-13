@@ -24,7 +24,7 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 
 ## 🕹️ Reverse Engineering & Game Preservation
 
-**[tou_decomp](https://github.com/pdromnt/tou_decomp)** — Full decompilation of *Tunnels of Underworld* from raw binaries. Renderer, physics, AI, audio — ~95% complete. Built with Ghidra and way too much patience.
+**[tou_decomp](https://github.com/pdromnt/tou_decomp)** — Full decompilation of *Tunnels of Underworld* from raw binaries. Built with Ghidra and way too much patience, bring it to the future also with new features.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **[uprising_fix_mod](https://github.com/pdromnt/uprising_fix_mod)** — DLL hook that patches rendering, CD audio, and mouse input issues in the original *Uprising Join or Die*.
