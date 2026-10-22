@@ -24,10 +24,13 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 
 ## 🕹️ Reverse Engineering & Game Preservation
 
-**[tou_decomp](https://github.com/pdromnt/tou_decomp)** — Full decompilation of *Tunnels of Underworld* from raw binaries. Built with Ghidra and way too much patience, bringing it to the future also with new features.
+**[tou_decomp](https://github.com/pdromnt/tou_decomp)** — Full decompilation of *Tunnels of Underworld* from raw binaries. Built with Ghidra and way too much patience, bringing it to the future also with new features like FSR1, multiplayer with rollback, shader effects, joystick support and Linux and macOS builds.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**[uprising_fix_mod](https://github.com/pdromnt/uprising_fix_mod)** — DLL hook that patches rendering, CD audio, and mouse input issues in the original *Uprising Join or Die*.
+**[uprising_decomp](https://github.com/pdromnt/uprising_decomp)** — Full decompilation of *Uprising: Join or Die* from raw binaries. Built with Ghidra and way too much time and patience, also ported to SDL3, adding features such as FSR, a Vulkan renderer, macOS and Linux builds and updated netcode for multiplayer.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**[blaze_decomp](https://github.com/pdromnt/blaze_decomp)** — Full decompilation of *BLAZE* from raw binaries. Built with Ghidra, bringing back a small indie game from the dead. Only new things added are the ability to change keymaps, a new 3x resolution and a move to SDL3 to allow for macOS and Linux builds.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **[mario-and-luigi](https://github.com/pdromnt/mario-and-luigi)** — Original DOS game ported to SDL2, preserving a slice of gaming history.
