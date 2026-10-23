@@ -82,3 +82,7 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
+
+### ℹ️ Contributions worth noting...
+
+**[FT800R Chirp Driver](https://github.com/kk7ds/chirp/pull/1679)*** - A driver for the Yaesu FT8000R that is now part of CHIRP. Made with pure spite to not pay for software that should be free.
