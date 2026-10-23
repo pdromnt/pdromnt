@@ -85,4 +85,4 @@ I also tinker with reverse engineering, embedded hardware, and game preservation
 
 ## ℹ️ Contributions worth noting...
 
-**[Yaesu FT-8000R Chirp Driver](https://github.com/kk7ds/chirp/pull/1679)** - A driver for the Yaesu FT-8000R that is now part of CHIRP. Made with pure spite of propritary software. Reversed engineered and tested directly from the radio unit itself.
+**[Yaesu FT-8000R Chirp Driver](https://github.com/kk7ds/chirp/pull/1679)** - A driver for the Yaesu FT-8000R that is now part of CHIRP. Made with pure spite of proprietary software. Reversed engineered and tested directly from the radio unit itself.
